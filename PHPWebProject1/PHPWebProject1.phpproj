@@ -26,4 +26,7 @@
   <ItemGroup>
     <Compile Include="index.php" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="POSTTestPage.html" />
+  </ItemGroup>
 </Project>

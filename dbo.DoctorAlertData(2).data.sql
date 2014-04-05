@@ -1,0 +1,1 @@
+﻿SELECT DateTime FROM dbo.DoctorAlertData
